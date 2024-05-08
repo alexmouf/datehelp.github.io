@@ -1,1 +1,1 @@
-This is a website which stores a bunch of different date ideas for when I'm uninspired
+This is a test website which is helping me learn how to use GitHub
